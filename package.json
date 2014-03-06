@@ -8,6 +8,8 @@
     "express": "3.4.4",
     "lodash": "~2.4.1",
     "mysql": "~2.0.1",
-    "sequelize": "~1.7.0-rc4"
+    "sequelize": "~1.7.0-rc4",
+	"request" : "~2.33.0",
+	"q" : "~1.0.0"
   }
 }
